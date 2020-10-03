@@ -1,0 +1,41 @@
+<!-- ERREURS -->
+<string name="errorCommandNotFound">Navré, `{}` n'est pas une de mes fonctions.</string>
+<string name="errorExec">Une erreur s'est produite lors de l'appel de cette commande!</string>
+<string name="errorNoDM">Je ne peux pas exécuter cette commande en MP.</string>
+<string name="errorNoRole">Désolé, mais tu n'a pas le droit d'utiliser cette commande.</string>
+
+<!-- HELP -->
+<string name="helpTitle">Comment m'utiliser</string>
+<string name="helpSubTitle">Mes commandes</string>
+<string name="helpText">
+Il semblerait que t'as besoin d'aide pour m'utiliser correctement.
+Voici une liste de mes commandes, pour plus de renseignements, utilise: ```{}```
+</string>
+
+<!-- FONCTION MERCI -->
+<string name="merciTitle">REMERCIEMENT</string>
+<string name="merciNoMotif">Aucun</string>
+
+<string name="merciText">
+**Destinataire:** {}
+**Motif:** {}
+
+----------------------------------------------------------------------------------------------
+
+Par la présente lettre, je tiens à vous remercier sincèrement pour votre accueil chaleureux et votre compagnie.
+
+Ces semaines, ces mois à vos côtés a été particulièrement enrichissantes et m’ont permis de vivre une vie pleine de bonheur et de plénitude.
+
+Avec toute ma reconnaissance, je vous prie de recevoir, **{}**, l’expression de ma considération respectueuse.
+
+{}
+</string>
+
+<!-- FONCTIONS DS -->
+<string name="categoryName">DS</string>
+<string name="textChannelName">exercice-{}</string>
+<string name="voiceChannelName">Exercice {}</string>
+
+<string name="dsInProg">Y'a déjà un DS en cours tabarnaque !</string>
+<string name="noDs">Pas de DS pour l'instant, profites en ca va pas durer !</string>
+<string name="notNumber">Navré, mais `{}` n'est pas un numéro valide.</string>
